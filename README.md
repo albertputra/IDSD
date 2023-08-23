@@ -9,4 +9,4 @@
 | [![GitHub issues](https://img.shields.io/github/issues/albertputra/IDSD?style=for-the-badge)](https://github.com/albertputra/IDSD/issues) | [![GitHub pull requests](https://img.shields.io/github/issues-pr/albertputra/IDSD?style=for-the-badge)](https://github.com/albertputra/IDSD/pulls) | [![Version](https://img.shields.io/badge/Version-Beta%20v0.1-2ea44f?style=for-the-badge&color=success)](/#/) |
 | [![GitHub closed issues](https://img.shields.io/github/issues-closed/albertputra/IDSD?style=for-the-badge)](https://github.com/albertputra/IDSD/issues) | [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/albertputra/IDSD?style=for-the-badge)](https://github.com/albertputra/IDSD/pulls) | [![Maintenance](https://img.shields.io/maintenance/no/2023?style=for-the-badge&color=success)](/#/) |
 
-This website still in development, please repot for bug
+This website still in beta version, please repot for bugs or errors
