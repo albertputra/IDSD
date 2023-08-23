@@ -1,0 +1,19 @@
+footer{
+    padding: 20px 0;
+	background-color: #cbe0dd;
+	color: #000000;
+	text-align: center;
+}
+.navbar-logo{
+	width: 70px;
+	height: 45px;
+	position: relative;
+}
+
+.rem18 {
+	width: 18rem;
+}
+
+.width-500px-img {
+	width: 500px;
+}
